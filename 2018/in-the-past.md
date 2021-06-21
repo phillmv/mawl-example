@@ -6,4 +6,4 @@ occurred_at: 2021-06-18
 
 Wild what you can do.
 
-![also images work](image.png)
+![also images work](67d.jpg)
