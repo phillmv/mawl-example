@@ -8,4 +8,4 @@ Wild what you can do. This page is part of the #tags tag.
 
 Also here's a sample contact: @phillmv
 
-![also images work. i am kinda cheating with this url rn - there's a bug with paths - but you get the idea](67d.jpg)
+![also images work, tho you gotta be careful how you reference them.](/67d.jpg)
