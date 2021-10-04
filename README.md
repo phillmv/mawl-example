@@ -1,6 +1,6 @@
 # public2
 
-This [repo](https://github.com/phillmv/public2) is meant to showcase the [mawl github action](https://github.com/phillmv/arquivo-export).
+This [repo](https://github.com/phillmv/public2) is meant to showcase the [mawl github action](https://github.com/phillmv/mawl).
 
 When when fed simple, honest markdown files, mawl [generates a static website](https://phillmv.github.io/public2) hosted on GitHub Pages.
 
