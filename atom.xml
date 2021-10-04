@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>http://example.com/atom.xml</id>
+  <link rel="alternate" type="text/html" href="http://example.com/"/>
+  <link rel="self" type="application/atom+xml" href="http://example.com/atom.xml"/>
+  <title>This is a default title.</title>
+  <updated>2021-10-04T13:52:34Z</updated>
+  <author>
+    <name>Example Author Name</name>
+  </author>
+  <entry>
+    <id>http://example.com/README</id>
+    <published>2021-10-04T13:52:34Z</published>
+    <updated>2021-10-04T13:52:34Z</updated>
+    <link rel="alternate" type="text/html" href="http://example.com/README"/>
+    <title>mawl-example</title>
+    <content type="html">&lt;h1 data-sourcepos="1:1-1:14"&gt;
+&lt;a id="mawl-example" class="anchor" href="#mawl-example" aria-hidden="true"&gt;&lt;span aria-hidden="true" class="octicon octicon-link"&gt;&lt;/span&gt;&lt;/a&gt;mawl-example&lt;/h1&gt;
+&lt;p data-sourcepos="3:1-3:132"&gt;This &lt;a href="https://github.com/phillmv/mawl-example"&gt;repo&lt;/a&gt; is meant to showcase the &lt;a href="https://github.com/phillmv/mawl"&gt;mawl github action&lt;/a&gt;.&lt;/p&gt;
+&lt;p data-sourcepos="5:1-5:142"&gt;When when fed simple, honest markdown files, mawl &lt;a href="https://phillmv.github.io/mawl-example"&gt;generates a static website&lt;/a&gt; hosted on GitHub Pages.&lt;/p&gt;
+&lt;p data-sourcepos="7:1-7:191"&gt;Mawl is a front end for Arquivo. Arquivo is a tool for archiving your notes &amp;amp; publishing your research. For more information, see the &lt;a href="https://github.com/phillmv/arquivo"&gt;arquivo repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p data-sourcepos="9:1-9:88"&gt;Oh! I almost forgot to mention. You can use stuff like &lt;a href="/tags/tags"&gt;#tags&lt;/a&gt; for linking pages together.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>http://example.com/another-post</id>
+    <published>2021-06-30T00:00:00Z</published>
+    <updated>2021-10-04T13:52:34Z</updated>
+    <link rel="alternate" type="text/html" href="http://example.com/another-post"/>
+    <title>Another example post.</title>
+    <content type="html">&lt;h1 data-sourcepos="1:1-1:23"&gt;
+&lt;a id="another-example-post" class="anchor" href="#another-example-post" aria-hidden="true"&gt;&lt;span aria-hidden="true" class="octicon octicon-link"&gt;&lt;/span&gt;&lt;/a&gt;Another example post.&lt;/h1&gt;
+&lt;p data-sourcepos="3:1-3:67"&gt;You can just go ahead and do all of your favourite markdown things.&lt;/p&gt;
+&lt;ul data-sourcepos="5:1-7:0" class="task-list"&gt;
+&lt;li data-sourcepos="5:1-5:11" class="task-list-item"&gt;
+&lt;input type="checkbox" class="task-list-item-checkbox" disabled&gt; hello&lt;/li&gt;
+&lt;li data-sourcepos="6:1-7:0" class="task-list-item"&gt;
+&lt;input type="checkbox" class="task-list-item-checkbox" checked disabled&gt; no!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p data-sourcepos="8:1-8:82"&gt;i can never remember the notation for tables, lol. but i do have footnotes&lt;sup&gt;&lt;a href="#fn-ref1" id="fnref-ref1"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;table data-sourcepos="12:1-14:26"&gt;
+&lt;thead&gt;
+&lt;tr data-sourcepos="12:1-12:21"&gt;
+&lt;th data-sourcepos="12:2-12:9"&gt;header&lt;/th&gt;
+&lt;th data-sourcepos="12:11-12:20"&gt;header 2&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr data-sourcepos="14:1-14:26"&gt;
+&lt;td data-sourcepos="14:2-14:11"&gt;a figure&lt;/td&gt;
+&lt;td data-sourcepos="14:13-14:25"&gt;another one&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;section&gt;
+&lt;ol&gt;
+&lt;li id="fn-ref1"&gt;
+&lt;p data-sourcepos="10:10-10:16"&gt;hooray! &lt;a href="#fnref-ref1" aria-label="Back to content"&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <id>http://example.com/hello-world</id>
+    <published>2021-06-21T00:00:00Z</published>
+    <updated>2021-10-04T13:52:34Z</updated>
+    <link rel="alternate" type="text/html" href="http://example.com/hello-world"/>
+    <title>Hello world!!!</title>
+    <content type="html">&lt;h1 data-sourcepos="1:1-1:16"&gt;
+&lt;a id="hello-world" class="anchor" href="#hello-world" aria-hidden="true"&gt;&lt;span aria-hidden="true" class="octicon octicon-link"&gt;&lt;/span&gt;&lt;/a&gt;Hello world!!!&lt;/h1&gt;
+&lt;p data-sourcepos="3:1-3:46"&gt;This post was written for the summer solstice.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>http://example.com/in-the-past</id>
+    <published>2021-06-18T00:00:00Z</published>
+    <updated>2021-10-04T13:52:34Z</updated>
+    <link rel="alternate" type="text/html" href="http://example.com/in-the-past"/>
+    <title>This post occurred in the past!</title>
+    <content type="html">&lt;h1 data-sourcepos="1:1-1:33"&gt;
+&lt;a id="this-post-occurred-in-the-past" class="anchor" href="#this-post-occurred-in-the-past" aria-hidden="true"&gt;&lt;span aria-hidden="true" class="octicon octicon-link"&gt;&lt;/span&gt;&lt;/a&gt;This post occurred in the past!&lt;/h1&gt;
+&lt;p data-sourcepos="3:1-3:57"&gt;Wild what you can do. This page is part of the &lt;a href="/tags/tags"&gt;#tags&lt;/a&gt; tag.&lt;/p&gt;
+&lt;p data-sourcepos="5:1-5:38"&gt;Also here's a sample contact: &lt;a href="/contacts/phillmv" class="user-mention"&gt;@phillmv&lt;/a&gt;&lt;/p&gt;
+&lt;p data-sourcepos="7:1-7:79"&gt;&lt;a href="/67d.jpg" target="_blank"&gt;&lt;img src="/67d.jpg" alt="also images work, tho you gotta be careful how you reference them." style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>
